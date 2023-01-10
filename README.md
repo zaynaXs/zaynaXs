@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zaynaXs
 - 👀 I’m interested in Data science,Web design,..
-- 🌱 I’m currently learning python and sql
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently taking alx software engineering course
+- 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ...
 
 <!---
